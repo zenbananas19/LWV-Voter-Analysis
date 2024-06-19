@@ -28,8 +28,10 @@ Line breaks should occur before a binary operator.
 
 Example:
 
+'''
 a = b
     + c
     + d
     + ...
+'''
 
